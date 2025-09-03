@@ -4,7 +4,7 @@ public class Principal {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("git branch -M patrick-issler-dal-lago");
+		System.out.println("git branch -M patrick-issler");
 	}
 
 }
